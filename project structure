@@ -1,0 +1,10 @@
+#project structure
+#project/
+│
+├── data/
+│   └── udemy_courses.csv
+│
+├── src/
+│   └── recommender.py
+│
+└── run_demo.py
